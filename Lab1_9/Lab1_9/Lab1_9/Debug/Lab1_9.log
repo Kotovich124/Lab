@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1_9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  dllmain.cpp
+  quadratic_dll.cpp
+C:\Users\volos\source\repos\Lab1_9\Lab1_9\quadratic_dll.cpp(4,72): warning C4273: decision: несовместимое связывание dll
+C:\Users\volos\source\repos\Lab1_9\Lab1_9\quadratic_dll.h(8,39): message : см. предыдущее определение "decision"
+  Создание кода...
+     Создается библиотека C:\Users\volos\source\repos\Lab1_9\Debug\Quadratic_dll.lib и объект C:\Users\volos\source\repos\Lab1_9\Debug\Quadratic_dll.exp
+  Lab1_9.vcxproj -> C:\Users\volos\source\repos\Lab1_9\Debug\Quadratic_dll.dll

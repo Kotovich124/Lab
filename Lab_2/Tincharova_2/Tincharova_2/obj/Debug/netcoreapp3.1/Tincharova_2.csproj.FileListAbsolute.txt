@@ -1,0 +1,11 @@
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\bin\Debug\netcoreapp3.1\Tincharova_2.exe
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\bin\Debug\netcoreapp3.1\Tincharova_2.deps.json
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\bin\Debug\netcoreapp3.1\Tincharova_2.runtimeconfig.json
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\bin\Debug\netcoreapp3.1\Tincharova_2.runtimeconfig.dev.json
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\bin\Debug\netcoreapp3.1\Tincharova_2.dll
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\bin\Debug\netcoreapp3.1\Tincharova_2.pdb
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\obj\Debug\netcoreapp3.1\Tincharova_2.csprojAssemblyReference.cache
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\obj\Debug\netcoreapp3.1\Tincharova_2.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\obj\Debug\netcoreapp3.1\Tincharova_2.AssemblyInfo.cs
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\obj\Debug\netcoreapp3.1\Tincharova_2.dll
+C:\Users\volos\source\repos\Tincharova_2\Tincharova_2\obj\Debug\netcoreapp3.1\Tincharova_2.pdb
